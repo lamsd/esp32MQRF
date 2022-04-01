@@ -2,7 +2,9 @@
 
 ## Prepare:
 1 - ESP32 board.
+
 2 - FRID-RC522.
+
 3 - NFC scard.
 
 ## Processing for system.
