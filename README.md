@@ -83,4 +83,5 @@ String printDec(byte *buffer, byte bufferSize) {
 
 - Result: Terminal ubuntu and Console on arduino.
 ![imag](Image/59.png)
-
+## Reference: 
+1. https://esp32io.com/tutorials/esp32-rfid-nfc
